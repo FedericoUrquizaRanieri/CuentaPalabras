@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1685732881 source:d:\archivos personales\uns\orga\proyectosorga\proyectofinal\main.c
+	<stdio.h>
+	<dirent.h>
+	<string.h>
+	"multiset.c"
+
+1685732629 d:\archivos personales\uns\orga\proyectosorga\proyectofinal\multiset.c
+	"multiset.h"
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+
+1685724601 d:\archivos personales\uns\orga\proyectosorga\proyectofinal\multiset.h
+	"lista.c"
+
+1685732629 d:\archivos personales\uns\orga\proyectosorga\proyectofinal\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	"lista.h"
+
+1685666444 d:\archivos personales\uns\orga\proyectosorga\proyectofinal\lista.h
+
